@@ -21,11 +21,13 @@ const date = new Date(content.date);
   {
     image ? (
       <Fragment>
-        <img
-          class="w-10/12 mx-auto aspect-video"
-          src={image}
-          alt={imageDescription ?? title}
-        />
+        <div class="flex justify-start w-max m-8">
+          <img
+            class="w-40 mx-auto"
+            src={image}
+            alt={imageDescription ?? title}
+          />
+        </div>
       </Fragment>
     ) : null
   }
