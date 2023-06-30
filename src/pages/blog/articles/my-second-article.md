@@ -1,15 +1,10 @@
 ---
 layout: "@layouts/ArticleLayout.astro"
-title: Who We Are
+title: Why Us?
 date: 30 June 2023
+image: /images/my-second-article/Engrings.jpg
 ---
-<img
-            class="w-40 mx-auto"
-            src="/images/my-second-article/rings.jpg"
-            alt="/images/my-second-article/rings.jpg"
-          />
-
         
-Thrifted old Rings
+Our timeless rings is well crafted 
 
-Aliquam, fugiat! Nisi saepe maiores neque minima, voluptatibus maxime, architecto  
+

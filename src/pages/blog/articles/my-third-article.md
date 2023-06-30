@@ -2,7 +2,7 @@
 layout: "@layouts/ArticleLayout.astro"
 title: Ring Shop
 date: 30 June 2023
-image: /images/my-third-article/blackink.jpg
+image: /images/my-third-article/ColourRingz.png
 ---
 
 
